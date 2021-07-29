@@ -1,0 +1,34 @@
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    background-image: linear-gradient(130deg,#1abc9c,#2ecc71);
+  }
+  
+  .flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(130deg,#1abc9c,#2ecc71);
+  }
+  
+  .flex > div {
+    margin: 0 1rem 2rem 1rem;
+    text-align: center;
+    background-image: linear-gradient(130deg,#1abc9c,#2ecc71);
+  }
+  
+  img {
+    display: inline-block;
+    max-width: 100%;
+  }
+
+  h1 {
+    margin: 20px;
+    color: #000000;
+
+  }
+
+  .Head {
+    background-image: linear-gradient(130deg,#1abc9c,#2ecc71);
+  }
